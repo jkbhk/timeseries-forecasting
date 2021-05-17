@@ -1,6 +1,6 @@
 # Project Members:
-Looi Yue Peng
-Khoo Teng Khing, Joshua
+Looi Yue Peng<br>
+Khoo Teng Khing, Joshua<br>
 Wong Li Han
 
 # About
