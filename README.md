@@ -5,4 +5,4 @@ This project is about analyzing stocks and attempting to predict future prices w
 # Project Members:
 Looi Yue Peng<br>
 Khoo Teng Khing, Joshua<br>
-Wong Li Hann
+Wong Li Han
